@@ -1,4 +1,4 @@
-Muestra;Gravedad (m/s²);Longitud (m);Ángulo (°);Masa (kg);Período (s)
+Muestra;Gravedad (m/s²);Longitud (m);Angulo (°);Masa (kg);Periodo (s)
 1;9,81;1;10;0,15;2,01
 2;9,81;1;10;0,3;2,01
 3;9,81;1;10;0,45;2,01
